@@ -5,3 +5,7 @@
 [submodule "satanCtl"]
 	path = satanCtl
 	url = https://github.com/Benjamin142857/satanCtl
+
+[submodule "satanKeeper"]
+	path = satanKeeper
+	url = https://github.com/Benjamin142857/satanKeeper
