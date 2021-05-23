@@ -1,0 +1,7 @@
+[submodule "satanGo"]
+	path = satanGo
+	url = https://github.com/Benjamin142857/satanGo
+
+[submodule "satanCtl"]
+	path = satanCtl
+	url = https://github.com/Benjamin142857/satanCtl
